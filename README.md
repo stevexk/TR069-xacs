@@ -13,7 +13,10 @@
 ####  9. CWMP 树浏览管理
 ####  10.SOAP交互报文跟踪
 
-## 技术支持QQ群：244382328
+## 技术支持QQ群：
+一群 244382328   已满
+二群 760714776
+
 
 Website: http://www.kmeisoft.com
 Demo Site:   http://acs.kmeisoft.com:8090
